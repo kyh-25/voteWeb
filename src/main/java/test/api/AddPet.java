@@ -15,7 +15,7 @@ import test.dao.PetitionDao;
 /**
  * Servlet implementation class AddPet
  */
-@WebServlet("/AddPet")
+@WebServlet("/test/AddPet")
 public class AddPet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        

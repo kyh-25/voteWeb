@@ -15,7 +15,7 @@ import test.dao.PetitionDao;
 /**
  * Servlet implementation class DeletePet
  */
-@WebServlet("/DeletePet")
+@WebServlet("/test/DeletePet")
 public class DeletePet extends HttpServlet {
     private static final long serialVersionUID = 1L;
 

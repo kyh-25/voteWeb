@@ -16,7 +16,7 @@ import test.dao.ReplyDao;
 /**
  * Servlet implementation class addReply
  */
-@WebServlet("/addReply")
+@WebServlet("/test/addReply")
 public class addReply extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        

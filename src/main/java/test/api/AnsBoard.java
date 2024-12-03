@@ -16,7 +16,7 @@ import test.dto.Petition;
 /**
  * Servlet implementation class AnsBoard
  */
-@WebServlet("/AnsBoard")
+@WebServlet("/test/AnsBoard")
 public class AnsBoard extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        

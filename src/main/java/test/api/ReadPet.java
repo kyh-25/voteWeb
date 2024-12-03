@@ -18,7 +18,7 @@ import test.dto.Reply;
 /**
  * Servlet implementation class ReadPet
  */
-@WebServlet("/ReadPet")
+@WebServlet("/test/ReadPet")
 public class ReadPet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
