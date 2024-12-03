@@ -11,7 +11,7 @@ import java.util.List;
 import test.dto.Reply;
 
 public class ReplyDao {
-	private static String dburl = "jdbc:mariadb://localhost:3306/team?useSSL=false";
+	private static String dburl = "jdbc:mariadb://mariadb:3306/team?useSSL=false";
 	private static String dbUser = "root";
 	private static String dbpasswd = "0000";
 	
